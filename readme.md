@@ -1,4 +1,4 @@
-# Webdriver.io - cucumber BDD - Page object model
+# Typescript - Javascript - Webdriver.io - cucumber BDD - Page object model
 
 ## Table of contents
 
